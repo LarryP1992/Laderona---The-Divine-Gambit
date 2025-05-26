@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/laderona-home/","tags":["gardenEntry"]}
 ---
 
-This is my first note to be published.
+Let's have the current location linked here
 
-[[This is my second note\|This is my second note]]
+Let's have the previous session recaps linked here?
+- Not sure if I want these in 1 note or separate notes with dates and headlines?
+- Ask Dustin what he wants
