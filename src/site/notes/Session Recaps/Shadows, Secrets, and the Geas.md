@@ -1,15 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/laderona-home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/session-recaps/shadows-secrets-and-the-geas/"}
 ---
-
-![Agiezal.jpeg](/img/user/zAssets/Agiezal.jpeg)
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/session-recaps/shadows-secrets-and-the-geas/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 
 # May 15, 2025 : Shadows, Secrets, and the Geas
@@ -32,18 +23,3 @@ Then came recklessness wrapped in curiosity. With only a heartbeat between life 
 And so, we begin once more.
 
 The cracked stone of the **Eastern Graveyard** crunches beneath your boots as you emerge from the depths of the Mausoleum. Behind you: secrets, near-deaths, and unanswered questions. Before you: the looming Shambled Forest and the ticking clock of a spell-bound quest.
-
-</div></div>
-
-
-
-
-
-## Still To-Do
-Let's have the previous session recaps linked here?
-- Not sure if I want these in 1 note or separate notes with dates and headlines?
-- Ask Dustin what he wants
-	- For settlements, Descriptions, shops, and NPCs
-		- Shops - Descriptions / NPCs
-		- NPCs - Descriptions / Organizations / NPCs
-		- Organizations - Descriptions / NPCs
