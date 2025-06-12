@@ -1,15 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/laderona-home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/session-recaps/the-sunblaze-affair/"}
 ---
-
-![Agiezal.jpeg](/img/user/zAssets/Agiezal.jpeg)
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/session-recaps/the-sunblaze-affair/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 # The Sunblaze Affair
 
@@ -65,18 +56,3 @@ As the pursuit twisted through the alley, Beedle, reappears quickly surveying th
 Brr Brr and his pursuer rounded the corner of the storefront, emerging on the opposite side, scarcely sixty feet from where they had begun. Up ahead them, Beedle, the mage, and the second knight came into full view. The air crackled with tension, both groups now locked in each other's sight.
 
 And so we leave our heroes poised at the edge of chaos, where steel, sorcery, and consequence will soon collide...
-
-</div></div>
-
-
-
-
-
-## Still To-Do
-Let's have the previous session recaps linked here?
-- Not sure if I want these in 1 note or separate notes with dates and headlines?
-- Ask Dustin what he wants
-	- For settlements, Descriptions, shops, and NPCs
-		- Shops - Descriptions / NPCs
-		- NPCs - Descriptions / Organizations / NPCs
-		- Organizations - Descriptions / NPCs

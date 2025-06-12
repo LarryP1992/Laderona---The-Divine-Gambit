@@ -8,7 +8,7 @@
 Battered, bloodied, and nearly broken, the party stood at the brink — only for the unexpected to unfold. Their foe, recognizing their tenacity, offered not death, but a pact. Bound by a powerful **Geas**, Landstryder became the vessel of an errand: to deliver a satchel to unknown acquaintances deep within the [[Shambled Forest\|Shambled Forest]]. 
 
 > [!note] The Contract
->  You are to deliver this to acquaintances in the Shambled Forest. You may not see its content, nor would you allow members of your party to see its content.  They will feel your presence and approach when you've entered the forest far enough. You must go straight there and take no detours. Rest as you must. Complete this in 30 days]
+>  You are to deliver this to acquaintances in the Shambled Forest. You may not see its content, nor would you allow members of your party to see its content.  They will feel your presence and approach when you've entered the forest far enough. You must go straight there and take no detours. Rest as you must. Complete this in 30 days
 
  The mission is clear: no detours, no delays, and thirty days to see it done. Only when they reach deep enough into the forest will those meant to receive it reveal themselves.
 
