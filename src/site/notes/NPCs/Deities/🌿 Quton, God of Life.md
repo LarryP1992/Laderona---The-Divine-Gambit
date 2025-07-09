@@ -18,13 +18,9 @@ Legends say he cannot stay in one place for long, for his compassion would cause
 His holy symbol is a circle of clasped hands around a blooming flower.
 
 ### 💐 Worship & Rites
-
 - **Shared Hearths:** Followers keep a corner of their homes open to guests or those in need.
-    
-- **Sacrifice Festivals:** Once per season, communities offer their wealth (food, tools, medicine) to strangers or travelers.
-    
+- **Sacrifice Festivals:** Once per season, communities offer their wealth (food, tools, medicine) to strangers or travelers. 
 - **Taboos:** Causing harm for profit is vile. Neglecting the suffering of others—especially when one has the means to help—is a grave offense.
-    
 
 ### ✨ Clerics & Powers
 

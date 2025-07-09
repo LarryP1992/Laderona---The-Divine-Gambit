@@ -20,11 +20,8 @@ His symbol is a rising mountain with a tree split through its peak.
 ### 🍃 Worship & Rites
 
 - **Seasonal Rites:** Performed at equinoxes and solstices, involving ritual tilling, planting, or stonebreaking to bless the earth.
-    
 - **The Silence:** Once per year, all followers spend one day in nature without speech to listen for Dhedros’ presence.
-    
 - **Taboos:** Overcultivation, salt-based poisoning of land, or building without balance are all viewed as great sins.
-    
 
 ### 🌿 Clerics & Powers
 
