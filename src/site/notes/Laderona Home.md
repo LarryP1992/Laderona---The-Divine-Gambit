@@ -6,95 +6,29 @@
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/session-recaps/cloaks-champions-and-entering-the-wizard-s-tower/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/session-recaps/the-wizard-s-tower/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# Cloaks, Champions, and Entering the Wizard's Tower
+# The Wizard's Tower
+Puzzle after puzzle. Riddles woven from arcane wit and ancient paranoia, each designed to keep the foolish — or the uninvited — from reaching the heights of the wizard’s spire. Yet, through persistence, cunning, and perhaps a touch of destiny, you ascended.
 
-## The Streets of Theltgalor — Cloaks, Companions, and Deception
+At the summit of the tower, among the clouds and forgotten knowledge, sat the figure you sought — a bent old man cloaked in worn brown robes, his beard a tangled silver cascade over stacks of crumbling tomes. His eyes, sharp beneath heavy lids, flickered upward as you entered, weighing strangers, measuring intent.
 
-The streets of [[Theltgalor\|Theltgalor]] bustled beneath a slate-gray sky, tension thick as the sound of clanging armor close behind.
+You came seeking aid for the one and only **Landstryder**, bound by affliction beyond mundane cure. But nothing comes freely in this world, least of all from a wizard.
 
-Yet fate, or perhaps fortune, intervened.
+Thus, the wagers began. Knowledge for knowledge. Secrets traded like coin...but not Wyzann's coin...put it back on your way down.
 
-From the crowd surged another guard, intercepting the pursuit with clipped words and sharp posture. Words spoken, but inaudible. 
+Sensing the latent magic you carry, his gaze settled first upon **Beedle**, motioning toward the hidden scroll within his pouch. The wizard read in silence — the air thick with tension — before handing it back with little more than a sardonic smirk and a cryptic, “Good luck.”
 
-Riding in on spectral steed, beneath the steel helm and polished armor, Beedle recognized the voice of his once-lost companion: **Gil**, returned, clad in striking deep-purple plate that gleamed like twilight storm clouds.
+Next, the bow — a relic whispered to be touched by divine will itself — passed into his hands. Even he, steeped in centuries of study, showed a glimmer of intrigue.
 
+But the final revelation dwarfed all else. Hidden deep within your pack, an artifact whose mere possession brands one for death — the rarest gems in all of Laderona, outlawed under pain of public execution. Its radiant glow emerged once more, casting fractured light across the dusty chamber. The [[World & Lore/Ore/Sunblaze Crystals\|Sunblaze Crystals]]
 
-> [!Quote] The intercepting guard turns to Brr Brr and his company, while the other knights strides off the other direction.
-> > "Sorry about him," the intercepting guard confessed, voice edged with authority.  
-> > "He's been traveling with the Mage for a few days now. That mage's tongue could sour honey. Still… the cloak. Stolen goods can't walk free, not without consequence. Pay for it and clear the trace, or surrender it."
+For a moment, even the wizard’s mask faltered — surprise, curiosity… perhaps fear. You had brought to his doorstep not only a plea for help but a relic powerful enough to reshape your fates — or end them.
 
-
-A dance of words followed, slick with half-truths and careful misdirection. But even silver tongues falter before the unerring mark of magic designed to reveal the hidden.
-
-The cloak, heavy with arcane tracking, was reluctantly returned to the **Eldritch Emporium**… for now. But the whispered vow?  
-_This is not over._
-
----
-
-## Tavern Whispers — The Call of Combat
-
-Meanwhile, across the taverns and lantern-lit streets, Rokirus, Landstryder, and Alban drifted among the townsfolk, ears sharp for opportunity. Their patience bore fruit when rumors of an unadvertised contest reached them — a place where reward could be high and reputations were carved in sweat and blood.
-
-No time, no place revealed… but the fire in Rokirus's eyes was unmistakable. A fight, glorious and rich with coin, awaited.
-
-The innkeeper, ever watching, confirmed whispers of an event — three days hence.
-
----
-
-## Shadows Stir — Landstryder's Burden and Brr Brr's Scheme
-
-But shadows twist deeper than coin and combat.
-
-The creeping blight upon Landstryder's chest, festering with whispers of doom, gnawed at their resolve. Their hope? The enigmatic wizard beyond the city, in the looming tower of **Wyzan**. If the mage proved unwilling? A priest, destined to visit [[Theltgalor\|Theltgalor]] in **five days' time**, might hold the cure.
-
-But as one problem loomed, another arose under the cover of darkness.
-
-That night, Brr Brr, ever daring, returned to the **Eldritch Emporium**, fingers deft and practiced. The lock surrendered with a soft _click_, the door drifting inward. But calamity followed — a wail of alarms echoed across rooftops, sirens slicing the night.
-
-Brr Brr vanished into the dark, scaling to safety, unseen.
-
----
-
-## Wyzan's Tower — Of Owls and Arcana
-
-Dawn broke cool and golden, though not all awoke renewed. Landstryder's affliction still present — a gnawing reminder that not all spoils come without cost.
-
-The party set forth, the spires of **Wyzan's Tower** clawing at the clouds ahead. An animated skeleton, sentinel of bone and ancient magics, ushered them within.
-
-Mysteries bloomed like moonlight on stone:
-
-Five stone dais, five stacks of books, each etched with a single word:
-
-> [!INFO] Book Engravings
-> - **AFRAID**
-> - **ANGRY**
-> - **HAPPY**
-> - **JEALOUS**
-> - **SAD**
-
-Upon each, an owl perched, crystalline eyes clear and unblinking. In the room's heart, a swirling orb of mesmerizing color pulsed with hidden power.
-
-Curiosity overcame caution. Gil reached first, his hand upon an owl. In an instant, the eyes flared — once clear, now brilliant yellow. The others followed, triggering hues yet unseen:
-
-> [!INFO] Colors
-> - Clear
-> - Yellow
-> - Orange
-> - Red
-> - Pink
-> - Green
-> - Blue
-
-But the orb pulses still. With each ripple of its arcane heartbeat, unseen effects take root, fate's threads tightening around the heroes.
-
-Already, Beedle, Brr Brr, Rokirus, and Landstryder have felt its touch.
-
-And that is where we will begin todays session, with those folks rolling a d6
+What comes next? You decide.
 
 </div></div>
 
