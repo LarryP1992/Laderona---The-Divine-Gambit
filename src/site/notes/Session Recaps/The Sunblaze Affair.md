@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/session-recaps/the-sunblaze-affair/"}
 ---
 
-# The Sunblaze Affair
+# May 29, 2025: The Sunblaze Affair
 
 The party returned to the shadowed streets of [[Theltgalor\|Theltgalor]], where the looming spires seemed to whisper of secrets best left untouched. They sought the counsel of [[Garran Holt\|Garran]].
 

@@ -3,12 +3,64 @@
 ---
 
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/session-recaps/tea-secrets-and-the-shedding-of-shackles/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# July 9, 2025: Tea, Secrets, and the Shedding of Shackles
+
+*The room was dim, warm with amber lamplight. A pot of tea steamed gently between the group and their mysterious host.*
+
+[[Wyzan Dellmoor\|Wyzan Dellmoor]] _(with a small, sincere smile)_:
+> “Sit and chat with me. At the very least, I do not get company very often, and you have come all this way.”
+
+*And so they did. Over sips of spiced tea and cautious conversation, Wyzan offered something unexpected:*
+
+Wyzan, unbeknown to most of the party, gathers a glittering handful of diamond dust. He spoke words not all of them understood—ancient, older than ink or echo. The dust swirled like ash on a current, then soaked into **Landstryder’s** skin. The binding spell dissipated with a silent finality.
+
+**Beedle**, **Brr Brr**, and **Rokirus** glanced at each other. They recognized the cost. Roughly 100 gold in diamond dust, just… given.
+
+Wyzan _(folding his hands)_:
+
+> “Now, the Cryptwrought Gold curse—should you still wish to undo it—you’ll have two paths. One: find an assessor to price what was stolen, then pay its worth in diamond dust. But be warned, magic reveals truth, not guesswork.
+> 
+> Or… you can embark on a little journey, and collect ingredients for an alchemic solution. Brew it. Drink it. Return the treasure.”
+
+They talked long after that, as the tea cooled and the shadows grew. Wyzan’s truths were half-buried in tone and implication—but some things were made clear:
+
+- The leaders of the major religions? **Godlings**—children of gods themselves.
+- Godlings live for centuries. Only one has ever been killed.
+- New Godlings will soon walk the world again. Wyzan suspects their seeds have already been planted.
+- Someone, perhaps even the Godlings, sent his party to die in the **Scarlet Barrens**.
+- Wyzan has, over decades, send apprentices in an attempt to set teleportation circles in the capital of the Barrens: [[Khulzodin Nun\|Khulzodin Nun]]. All in hopes of returning to some unfinished research.
+
+---
+**Beedle**, ever-curious, poured over tomes over the next 2 days, searching for answers. Finally, something worth while. The ancient, **Scroll of the Shattered Veil** is written in **Vox Umbrarum**—the fabled **Noctisong**.
+
+**Rokirus** received word of a fight stirring beneath one of the Upper District’s Manors. The address was whispered to him—violence brews underground.
+
+But there is no time to linger.
+
+---
+
+**Next Destinations:**
+
+- [[Gin Ulum\|Gin Ulum]]– along the way to their final destination. A place to recoup supplies and gather any necessary information for their next steps.
+- Then across the jagged pass of **The Spine**, toward the cave whose mystery still calls.
+
+
+</div></div>
+
+
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/session-recaps/the-wizard-s-tower/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# The Wizard's Tower
+# June 25, 2025: The Wizard's Tower
+
 Puzzle after puzzle. Riddles woven from arcane wit and ancient paranoia, each designed to keep the foolish — or the uninvited — from reaching the heights of the wizard’s spire. Yet, through persistence, cunning, and perhaps a touch of destiny, you ascended.
 
 At the summit of the tower, among the clouds and forgotten knowledge, sat the figure you sought — a bent old man cloaked in worn brown robes, his beard a tangled silver cascade over stacks of crumbling tomes. His eyes, sharp beneath heavy lids, flickered upward as you entered, weighing strangers, measuring intent.
@@ -35,7 +87,7 @@ What comes next? You decide.
 
 
 
-# Cloaks, Champions, and Entering the Wizard's Tower
+# June 12, 2025: Cloaks, Champions, and Entering the Wizard's Tower
 
 ## The Streets of Theltgalor — Cloaks, Companions, and Deception
 
@@ -129,7 +181,7 @@ And that is where we will begin todays session, with those folks rolling a d6
 
 
 
-# The Sunblaze Affair
+# May 29, 2025: The Sunblaze Affair
 
 The party returned to the shadowed streets of [[Theltgalor\|Theltgalor]], where the looming spires seemed to whisper of secrets best left untouched. They sought the counsel of [[Garran Holt\|Garran]].
 

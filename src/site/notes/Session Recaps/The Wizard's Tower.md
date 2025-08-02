@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/session-recaps/the-wizard-s-tower/"}
 ---
 
-# The Wizard's Tower
+# June 25, 2025: The Wizard's Tower
+
 Puzzle after puzzle. Riddles woven from arcane wit and ancient paranoia, each designed to keep the foolish — or the uninvited — from reaching the heights of the wizard’s spire. Yet, through persistence, cunning, and perhaps a touch of destiny, you ascended.
 
 At the summit of the tower, among the clouds and forgotten knowledge, sat the figure you sought — a bent old man cloaked in worn brown robes, his beard a tangled silver cascade over stacks of crumbling tomes. His eyes, sharp beneath heavy lids, flickered upward as you entered, weighing strangers, measuring intent.

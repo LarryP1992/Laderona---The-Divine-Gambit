@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/session-recaps/cloaks-champions-and-entering-the-wizard-s-tower/"}
 ---
 
-# Cloaks, Champions, and Entering the Wizard's Tower
+# June 12, 2025: Cloaks, Champions, and Entering the Wizard's Tower
 
 ## The Streets of Theltgalor — Cloaks, Companions, and Deception
 
