@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-recaps/cloaks-champions-and-entering-the-wizard-s-tower/"}
+{"dg-publish":true,"permalink":"/session-recaps/cloaks-champions-and-entering-the-wizard-s-tower/","tags":["Session"]}
 ---
 
 # June 12, 2025: Cloaks, Champions, and Entering the Wizard's Tower

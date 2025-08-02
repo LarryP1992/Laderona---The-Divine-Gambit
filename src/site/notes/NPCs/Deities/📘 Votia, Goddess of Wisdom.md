@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/deities/votia-goddess-of-wisdom/"}
+{"dg-publish":true,"permalink":"/np-cs/deities/votia-goddess-of-wisdom/","tags":["NPC","Deity"]}
 ---
 
 ![Votia, the Goddess of Wisdom.png](/img/user/zAssets/Votia,%20the%20Goddess%20of%20Wisdom.png)

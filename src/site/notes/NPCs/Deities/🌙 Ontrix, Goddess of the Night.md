@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/deities/ontrix-goddess-of-the-night/"}
+{"dg-publish":true,"permalink":"/np-cs/deities/ontrix-goddess-of-the-night/","tags":["NPC","Deity"]}
 ---
 
 ![Ontrix, the Goddess of the Night.png](/img/user/zAssets/Ontrix,%20the%20Goddess%20of%20the%20Night.png)

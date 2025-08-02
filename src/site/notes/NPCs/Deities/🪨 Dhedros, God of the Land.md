@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/deities/dhedros-god-of-the-land/"}
+{"dg-publish":true,"permalink":"/np-cs/deities/dhedros-god-of-the-land/","tags":["NPC","Deity"]}
 ---
 
 ![Dhedros, the God of the Land.png](/img/user/zAssets/Dhedros,%20the%20God%20of%20the%20Land.png)

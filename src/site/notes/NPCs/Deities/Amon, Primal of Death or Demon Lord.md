@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/deities/amon-primal-of-death-or-demon-lord/"}
+{"dg-publish":true,"permalink":"/np-cs/deities/amon-primal-of-death-or-demon-lord/","tags":["NPC","Unknown"]}
 ---
 
 # Amon, Primal of Death or Demon Lord

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-recaps/the-wizard-s-tower/"}
+{"dg-publish":true,"permalink":"/session-recaps/the-wizard-s-tower/","tags":["Session"]}
 ---
 
 # June 25, 2025: The Wizard's Tower

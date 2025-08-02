@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-recaps/the-sunblaze-affair/"}
+{"dg-publish":true,"permalink":"/session-recaps/the-sunblaze-affair/","tags":["Session"]}
 ---
 
 # May 29, 2025: The Sunblaze Affair

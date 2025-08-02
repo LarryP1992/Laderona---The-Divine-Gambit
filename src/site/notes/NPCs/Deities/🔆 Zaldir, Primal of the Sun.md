@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/deities/zaldir-primal-of-the-sun/"}
+{"dg-publish":true,"permalink":"/np-cs/deities/zaldir-primal-of-the-sun/","tags":["NPC","Deity"]}
 ---
 
 ![Zaldir, Primal of the Sun.png](/img/user/zAssets/Zaldir,%20Primal%20of%20the%20Sun.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-recaps/tea-secrets-and-the-shedding-of-shackles/"}
+{"dg-publish":true,"permalink":"/session-recaps/tea-secrets-and-the-shedding-of-shackles/","tags":["Session"]}
 ---
 
 # July 9, 2025: Tea, Secrets, and the Shedding of Shackles

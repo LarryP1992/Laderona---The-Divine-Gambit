@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-recaps/shadows-secrets-and-the-geas/"}
+{"dg-publish":true,"permalink":"/session-recaps/shadows-secrets-and-the-geas/","tags":["Session"]}
 ---
 
 

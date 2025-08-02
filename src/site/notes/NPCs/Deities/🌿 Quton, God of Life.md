@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/deities/quton-god-of-life/"}
+{"dg-publish":true,"permalink":"/np-cs/deities/quton-god-of-life/","tags":["NPC","Deity"]}
 ---
 
 ![Quton, the God of Life.png](/img/user/zAssets/Quton,%20the%20God%20of%20Life.png)

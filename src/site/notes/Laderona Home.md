@@ -2,12 +2,20 @@
 {"dg-publish":true,"permalink":"/laderona-home/","tags":["gardenEntry"]}
 ---
 
+# Agiezall Map
+
 ![Agiezal.jpeg](/img/user/zAssets/Agiezal.jpeg)
 
+# Sessions
+![[Sessions.base]]
 
+# NPCs
 
+![[NPC List.base]]
 
+# World & Lore
 
+![[World Data.base]]
 
 
 <!--
