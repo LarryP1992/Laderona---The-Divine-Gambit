@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-and-lore/items/cultist-s-journal/"}
+{"dg-publish":true,"permalink":"/world-and-lore/items/cultist-s-journal/","tags":["Wondrous","Item"]}
 ---
 
 

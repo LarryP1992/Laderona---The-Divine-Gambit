@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-and-lore/laderona-timeline/"}
+{"dg-publish":true,"permalink":"/world-and-lore/laderona-timeline/","tags":["Lore","Timeline"]}
 ---
 
 # Creation (0-227)

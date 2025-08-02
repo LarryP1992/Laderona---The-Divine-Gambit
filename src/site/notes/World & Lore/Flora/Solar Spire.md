@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/world-and-lore/flora/solar-spire/"}
+{"dg-publish":true,"permalink":"/world-and-lore/flora/solar-spire/","tags":["Flora"]}
 ---
 
-
-![Solar Spire.png](/img/user/zAssets/Solar%20Spire.png)
 
 # Solar Spires
 ##### Visual:
@@ -14,3 +12,5 @@ Earthy scent that is reminiscent of freshly turned soil and sun-warmed grass. As
 
 ##### Taste:
 Mildly tangy flavor with a hint of bitterness, similar to mustard greens.
+
+![Solar Spire.png](/img/user/zAssets/Solar%20Spire.png)

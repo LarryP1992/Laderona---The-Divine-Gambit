@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-and-lore/items/the-scroll-of-the-shattered-veil/"}
+{"dg-publish":true,"permalink":"/world-and-lore/items/the-scroll-of-the-shattered-veil/","tags":["Wondrous","Item"]}
 ---
 
 # Scroll of the Shattered Veil

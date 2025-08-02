@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-and-lore/general-lore/vox-umbrarum-noctisong/"}
+{"dg-publish":true,"permalink":"/world-and-lore/general-lore/vox-umbrarum-noctisong/","tags":["Lore","Language"]}
 ---
 
 # Vox Umbrarum - Noctisong

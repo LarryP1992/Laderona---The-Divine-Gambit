@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/world-and-lore/flora/siren-s-call/"}
+{"dg-publish":true,"permalink":"/world-and-lore/flora/siren-s-call/","tags":["Flora"]}
 ---
 
 
-![Siren's Call.png](/img/user/zAssets/Siren's%20Call.png)
 # Siren's Call
 
 ##### Visual:
@@ -14,3 +13,5 @@ The fragrance of the Siren's Call is intoxicating and enchanting, akin to the sc
 
 ##### Taste:
 The fragrance of the Siren's Call is intoxicating and enchanting, akin to the scent of a summer breeze carrying the perfume of exotic flowers mingled with the salty tang of the sea. It is a scent that lingers in the air, wrapping around those who inhale it like a soft embrace, stirring up feelings of longing and desire.
+
+![Siren's Call.png](/img/user/zAssets/Siren's%20Call.png)
