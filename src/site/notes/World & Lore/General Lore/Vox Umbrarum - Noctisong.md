@@ -9,4 +9,5 @@
 - **Primal Rarity** – Only [[NPCs/Deities/Amon, Primal of Death or Demon Lord\|Amon]], his chosen one(s), and [[NPCs/Deities/🔆 Zaldir, Primal of the Sun\|Zaldir]] were able to comprehend it. 
 - **It is sung, not spoken** – It resonates like wind in hollow stone, impossible to duplicate with magic alone.   
 - **Fiends Cannot Comprehend It** – Not because it’s encrypted, but because **they lack the spiritual resonance** to grasp its meaning. It would be like trying to read music without knowing sound exists.
+
 <!-- - **The Last Translator** – A descendant of Amon’s **Eclipsed Heralds** (messengers who served both Sun and Death) holds the final translations. A family tradition, full body tattoo holding the final fragments of a **harmonic key** that unlocks meaning through tone and intent. -->

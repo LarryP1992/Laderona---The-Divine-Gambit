@@ -38,6 +38,7 @@ The first passage of the scroll glows faintly as you decipher it. In the flicker
     You gain **darkvision to 60 feet**. If you already have darkvision, its range increases by 30 feet.  
     _(This feature may evolve into Truesight in a future Verse.)_
 -->
+
 <!--
 ### Verse II – Ashes of the Forgotten Sun
 
