@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/world-and-lore/general-lore/vox-umbrarum-noctisong/","tags":["Lore","Language"]}
 ---
 
+
 # Vox Umbrarum - Noctisong
 > Spoken only by the Primal of Death and his closest celestial kin, _Vox Umbrarum_ is not a secret—it is a **sacred dialect**, reserved for speaking of the **soul’s journey**, **love beyond death**, and the **balance of all things**. Only creatures touched by [[NPCs/Deities/Amon, Primal of Death or Demon Lord\|Amon, Primal of Death or Demon Lord]] himself can understand the language.
 ### Description

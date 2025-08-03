@@ -5,18 +5,18 @@
 # Agiezall Map
 
 ![Agiezal.jpeg](/img/user/zAssets/Agiezal.jpeg)
-| File                                                                                 | Last Modified             |
-| ------------------------------------------------------------------------------------ | ------------------------- |
-| [[Session Recaps/_Session Story Line\|_Session Story Line]]                       | 9:28 AM - August 02, 2025 |
-| [[World & Lore/Ore/Sunblaze Crystals\|Sunblaze Crystals]]                         | 4:30 PM - August 02, 2025 |
-| [[World & Lore/Flora/Solar Spire\|Solar Spire]]                                   | 4:31 PM - August 02, 2025 |
-| [[World & Lore/Flora/Siren's Call\|Siren's Call]]                                 | 4:31 PM - August 02, 2025 |
-| [[World & Lore/Flora/Radiant Lotus\|Radiant Lotus]]                               | 4:31 PM - August 02, 2025 |
-| [[World & Lore/Laderona Timeline\|Laderona Timeline]]                             | 4:31 PM - August 02, 2025 |
-| [[World & Lore/Flora/Flame Lily\|Flame Lily]]                                     | 4:32 PM - August 02, 2025 |
-| [[World & Lore/Items/Cultist's Journal\|Cultist's Journal]]                       | 4:35 PM - August 02, 2025 |
-| [[NPCs/Deities/🌙 Ontrix, Goddess of the Night\|🌙 Ontrix, Goddess of the Night]] | 4:37 PM - August 02, 2025 |
-| [[NPCs/Deities/🌿 Quton, God of Life\|🌿 Quton, God of Life]]                     | 4:37 PM - August 02, 2025 |
+| File                                                                                                                         | Type                                    | Last Modified             |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ------------------------- |
+| [[World & Lore/General Lore/Vox Umbrarum - Noctisong\|Vox Umbrarum - Noctisong]]                                          | <ul><li>Lore</li><li>Language</li></ul> | 9:44 AM - August 03, 2025 |
+| [[World & Lore/Items/The Scroll of the Shattered Veil\|The Scroll of the Shattered Veil]]                                 | <ul><li>Wondrous</li><li>Item</li></ul> | 9:38 AM - August 03, 2025 |
+| [[Session Recaps/Cloaks, Champions, and Entering the Wizard's Tower\|Cloaks, Champions, and Entering the Wizard's Tower]] | <ul><li>Session</li></ul>               | 4:39 PM - August 02, 2025 |
+| [[Session Recaps/Shadows, Secrets, and the Geas\|Shadows, Secrets, and the Geas]]                                         | <ul><li>Session</li></ul>               | 4:39 PM - August 02, 2025 |
+| [[Session Recaps/Tea, Secrets, and the Shedding of Shackles\|Tea, Secrets, and the Shedding of Shackles]]                 | <ul><li>Session</li></ul>               | 4:39 PM - August 02, 2025 |
+| [[Session Recaps/The Sunblaze Affair\|The Sunblaze Affair]]                                                               | <ul><li>Session</li></ul>               | 4:39 PM - August 02, 2025 |
+| [[Session Recaps/The Wizard's Tower\|The Wizard's Tower]]                                                                 | <ul><li>Session</li></ul>               | 4:39 PM - August 02, 2025 |
+| [[NPCs/Deities/Amon, Primal of Death or Demon Lord\|Amon, Primal of Death or Demon Lord]]                                 | <ul><li>NPC</li><li>Unknown</li></ul>   | 4:38 PM - August 02, 2025 |
+| [[NPCs/Deities/🪨 Dhedros, God of the Land\|🪨 Dhedros, God of the Land]]                                                 | <ul><li>NPC</li><li>Deity</li></ul>     | 4:37 PM - August 02, 2025 |
+| [[NPCs/Deities/🔆 Zaldir, Primal of the Sun\|🔆 Zaldir, Primal of the Sun]]                                               | <ul><li>NPC</li><li>Deity</li></ul>     | 4:37 PM - August 02, 2025 |
 
 { .block-language-dataview}
 
