@@ -6,17 +6,18 @@
 
 ![Agiezal.jpeg](/img/user/zAssets/Agiezal.jpeg)
 
+<!--
 # Sessions
 ![[Sessions.base]]
 
-# NPCs
+# NPCs 
 
 ![[NPC List.base]]
 
 # World & Lore
 
 ![[World Data.base]]
-
+-->
 
 <!--
 ## Still To-Do
