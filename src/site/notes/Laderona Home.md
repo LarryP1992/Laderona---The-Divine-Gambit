@@ -5,6 +5,7 @@
 # Agiezall Map
 
 ![Agiezal.jpeg](/img/user/zAssets/Agiezal.jpeg)
+
 | File                                                                                                                         | Type                                    | Last Modified             |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ------------------------- |
 | [[World & Lore/General Lore/Vox Umbrarum - Noctisong\|Vox Umbrarum - Noctisong]]                                          | <ul><li>Lore</li><li>Language</li></ul> | 9:44 AM - August 03, 2025 |
