@@ -8,7 +8,7 @@
 
 | File                                                                                         | Type                                  | Last Modified             |
 | -------------------------------------------------------------------------------------------- | ------------------------------------- | ------------------------- |
-| [[Organizations/The Forgemasters\|The Forgemasters]]                                      | <ul><li>Unknown</li></ul>             | 8:55 PM - August 17, 2025 |
+| [[Organizations/The Forgemasters\|The Forgemasters]]                                      | <ul><li>Unknown</li></ul>             | 8:57 PM - August 17, 2025 |
 | [[Religions/Sophic Scholars\|Sophic Scholars]]                                            | <ul><li>Religion</li></ul>            | 8:51 PM - August 17, 2025 |
 | [[Religions/Landweavers\|Landweavers]]                                                    | <ul><li>Religion</li></ul>            | 8:51 PM - August 17, 2025 |
 | [[Religions/Guardians of the Night\|Guardians of the Night]]                              | <ul><li>Religion</li></ul>            | 8:51 PM - August 17, 2025 |
