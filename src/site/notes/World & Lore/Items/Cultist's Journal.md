@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/world-and-lore/items/cultist-s-journal/","tags":["Wondrous","Item"]}
 ---
 
-
+# Cultist's Journal
 *Date uncertain. Sections appear to span many months, years, or even decades.*
 
 **Page 1**  
@@ -40,7 +40,7 @@ Is there certain knowledge the Gods have forbidden Mortals to know? It seems the
 ---
 
 **Page 5**  
-We just sent messengers to supply the Witherking in the Shambled Forest with another pouch of Sunblaze Crystals. They seem to be going through them more quickly than before, demanding more frequent than they grow. Now another group has began harvesting the Crystals, as well. I believe them to be [[The Forgemasters\|The Forgemasters]]. 
+We just sent messengers to supply the Witherking in the Shambled Forest with another pouch of Sunblaze Crystals. They seem to be going through them more quickly than before, demanding more frequent than they grow. Now another group has began harvesting the Crystals, as well. I believe them to be [[Organizations/The Forgemasters\|The Forgemasters]]. 
   
 
 > [!DANGER] Response

@@ -5,7 +5,7 @@
 ![Votia, the Goddess of Wisdom.png](/img/user/zAssets/Votia,%20the%20Goddess%20of%20Wisdom.png)
 # 📘 **Votia, Goddess of Wisdom**
 **Divine Role:** The Mindful Matron  
-**Religion Group:** *[[Sophic Scholars\|Sophic Scholars]]*  
+**Religion Group:** *[[Religions/Sophic Scholars\|Sophic Scholars]]*  
 **Titles:** The Silver Quill, Lady of Knowing, She Who Watches
 
 ### 📖 Lore & Beliefs

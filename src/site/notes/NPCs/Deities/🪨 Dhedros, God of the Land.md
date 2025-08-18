@@ -6,7 +6,7 @@
 # 🪨 **Dhedros, God of the Land**
 
 **Divine Role:** Shaper of Earth and Growth  
-**Religion Group:** *[[Landweavers\|Landweavers]]*  
+**Religion Group:** *[[Religions/Landweavers\|Landweavers]]*  
 **Titles:** The Green Father, Warden of Roots, Stoneheart
 
 ### 🏞️ Lore & Beliefs

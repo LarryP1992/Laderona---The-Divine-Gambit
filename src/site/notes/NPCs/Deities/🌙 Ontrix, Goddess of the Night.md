@@ -6,7 +6,7 @@
 # 🌙 **Ontrix, Goddess of the Night**
 
 **Divine Role:** Warden of Dreams and the Dead  
-**Religion Group:** *[[Guardians of the Night\|Guardians of the Night]]*  
+**Religion Group:** *[[Religions/Guardians of the Night\|Guardians of the Night]]*  
 **Titles:** The Shadowed Queen, She Who Walks Between, The Last Mercy
 
 ### 🌘 Lore & Beliefs

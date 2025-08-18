@@ -6,7 +6,7 @@
 # 🌿 **Quton, God of Life**
 
 **Divine Role:** The Benevolent Bloom  
-**Religion Group:** *[[Elysian Fellowship\|Elysian Fellowship]]*  
+**Religion Group:** *[[Religions/Elysian Fellowship\|Elysian Fellowship]]*  
 **Titles:** Heart of the World, The Joy-Giver, He of Gentle Hands
 
 ### 🌸 Lore & Beliefs
