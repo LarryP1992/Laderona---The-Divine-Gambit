@@ -13,4 +13,9 @@ Earthy scent that is reminiscent of freshly turned soil and sun-warmed grass. As
 ##### Taste:
 Mildly tangy flavor with a hint of bitterness, similar to mustard greens.
 
+## In Game Mechanics
+It's prized by craftsmen for its strength and durability, making it ideal for repairing equipment or crafting tools.
+
+Repairs to items made of Cloth or Leather do not require a maintenance check and succeed automatically by applying this herb.
+
 ![Solar Spire.png](/img/user/zAssets/Solar%20Spire.png)

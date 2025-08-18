@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/z-templates/npc-template/","tags":["NPC"]}
 ---
 
+Type is for the Homepage
 Role can be:
 - Occupation
 - Based on Location - owner, employee, patron

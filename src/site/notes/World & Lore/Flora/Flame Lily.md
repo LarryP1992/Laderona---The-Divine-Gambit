@@ -13,4 +13,9 @@ Rich and intoxicating, with floral notes that mingle with hints of spice and war
 ##### Taste:
 Mildly sweet flavor with a subtle spicy kick. The taste is reminiscent of exotic spices and tropical fruits, with a hint of warmth that lingers on the palate. However, caution should be exercised when sampling the petals, as they may contain compounds that are toxic if ingested in large quantities
 
+## In Game Mechanics
+Creating a tea from this Lily can bring the drinker to a highly relaxed state.
+
+Consuming the tea reduces stress and anxiety, granting a temporary bonus to mental clarity and focus, reducing 1 level of Strife on a short rest.
+
 ![Flame Lily.png](/img/user/zAssets/Flame%20Lily.png)

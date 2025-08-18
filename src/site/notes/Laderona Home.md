@@ -6,18 +6,18 @@
 
 ![Agiezal.jpeg](/img/user/zAssets/Agiezal.jpeg)
 
-| File                                                            | Type                           | Last Modified             |
-| --------------------------------------------------------------- | ------------------------------ | ------------------------- |
-| [[Organizations/The Forgemasters\|The Forgemasters]]         | <ul><li>Organization</li></ul> | 8:30 PM - August 17, 2025 |
-| [[Religions/Sophic Scholars\|Sophic Scholars]]               | <ul><li>Organization</li></ul> | 8:21 PM - August 17, 2025 |
-| [[Religions/Landweavers\|Landweavers]]                       | <ul><li>Organization</li></ul> | 8:18 PM - August 17, 2025 |
-| [[Religions/Guardians of the Night\|Guardians of the Night]] | <ul><li>Organization</li></ul> | 8:16 PM - August 17, 2025 |
-| [[Religions/Elysian Fellowship\|Elysian Fellowship]]         | <ul><li>Organization</li></ul> | 8:14 PM - August 17, 2025 |
-| [[Template Ideas\|Template Ideas]]                           | \-                             | 7:17 PM - August 17, 2025 |
-| [[World & Lore/Ore/Sunblaze Crystals\|Sunblaze Crystals]]    | <ul><li>Ore</li></ul>          | 4:01 PM - August 17, 2025 |
-| [[World & Lore/Flora/Solar Spire\|Solar Spire]]              | <ul><li>Flora</li></ul>        | 3:57 PM - August 17, 2025 |
-| [[World & Lore/Flora/Siren's Call\|Siren's Call]]            | <ul><li>Flora</li></ul>        | 3:57 PM - August 17, 2025 |
-| [[World & Lore/Flora/Radiant Lotus\|Radiant Lotus]]          | <ul><li>Flora</li></ul>        | 3:57 PM - August 17, 2025 |
+| File                                                                                         | Type                                  | Last Modified             |
+| -------------------------------------------------------------------------------------------- | ------------------------------------- | ------------------------- |
+| [[Organizations/The Forgemasters\|The Forgemasters]]                                      | <ul><li>Unknown</li></ul>             | 8:55 PM - August 17, 2025 |
+| [[Religions/Sophic Scholars\|Sophic Scholars]]                                            | <ul><li>Religion</li></ul>            | 8:51 PM - August 17, 2025 |
+| [[Religions/Landweavers\|Landweavers]]                                                    | <ul><li>Religion</li></ul>            | 8:51 PM - August 17, 2025 |
+| [[Religions/Guardians of the Night\|Guardians of the Night]]                              | <ul><li>Religion</li></ul>            | 8:51 PM - August 17, 2025 |
+| [[Religions/Elysian Fellowship\|Elysian Fellowship]]                                      | <ul><li>Religion</li></ul>            | 8:51 PM - August 17, 2025 |
+| [[NPCs/Deities/Amon, Primal of Death or Demon Lord\|Amon, Primal of Death or Demon Lord]] | <ul><li>Unknown</li><li>NPC</li></ul> | 8:49 PM - August 17, 2025 |
+| [[NPCs/Deities/🪨 Dhedros, God of the Land\|🪨 Dhedros, God of the Land]]                 | <ul><li>Deity</li></ul>               | 8:49 PM - August 17, 2025 |
+| [[NPCs/Deities/🔆 Zaldir, Primal of the Sun\|🔆 Zaldir, Primal of the Sun]]               | <ul><li>Deity</li></ul>               | 8:49 PM - August 17, 2025 |
+| [[NPCs/Deities/📘 Votia, Goddess of Wisdom\|📘 Votia, Goddess of Wisdom]]                 | <ul><li>Deity</li></ul>               | 8:49 PM - August 17, 2025 |
+| [[NPCs/Deities/🌿 Quton, God of Life\|🌿 Quton, God of Life]]                             | <ul><li>Deity</li></ul>               | 8:48 PM - August 17, 2025 |
 
 { .block-language-dataview}
 

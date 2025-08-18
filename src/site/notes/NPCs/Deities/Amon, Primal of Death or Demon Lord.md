@@ -13,4 +13,3 @@ Folklore says he was a God, sadly lost in the [[World & Lore/Laderona Timeline#E
 A Cult by the name of Legion publicly pledges their loyalty to a shadow figure, which most elude to Amon.
 
 The truth is unknown.
-

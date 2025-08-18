@@ -13,4 +13,9 @@ Intoxicatingly sweet, with notes of honey, citrus, and exotic spices. As the sun
 ##### Taste:
 Subtle yet sublime, with hints of nectar and sunshine captured within its petals. Consuming a petal of the flower imparts a delicate sweetness on the palate, followed by a refreshing burst of citrus and floral notes. The taste is refreshing and invigorating, leaving a lingering sensation of warmth and vitality on the tongue. Some describe it as a taste of pure sunshine, filling the soul with light and nourishment.
 
+## In Game Mechanics
+Grinding the Lotus into a paste mixes the oils from the leaves and the internal making of the plant, producing a salve with healing properties.
+
+Applying the salve to wounds or burns accelerates the healing process and reduces scarring. You can spend your turn to apply the salve to a creature within 5 feet. You must continually apply the salve until the start of your next turn. Doing so heals the creature for 2d4+2.
+
 ![Radiant Lotus.png](/img/user/zAssets/Radiant%20Lotus.png)
