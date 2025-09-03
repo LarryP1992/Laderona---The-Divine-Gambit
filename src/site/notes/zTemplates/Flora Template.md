@@ -17,4 +17,4 @@ Types can be:
 #### Taste:
 
 
-PIC
+<!-- PIC / Map -->

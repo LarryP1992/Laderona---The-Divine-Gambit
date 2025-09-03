@@ -8,6 +8,7 @@ Types can be:
 - Town
 - CIty
 - Capital
+- Fortress
 # Name
  Description of the Settlement
 - Visual
@@ -32,4 +33,4 @@ Types can be:
 { .block-language-dataview}
 
 
-PIC / Map
+<!-- PIC / Map -->

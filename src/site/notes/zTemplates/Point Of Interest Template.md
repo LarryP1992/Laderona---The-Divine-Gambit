@@ -26,10 +26,10 @@ Types can be:
 
 { .block-language-dataview}
 
-## Resources
+## Resources / Loot / Inventory
 | Resource | Type |
 | -------- | ---- |
 
 { .block-language-dataview}
 
-PIC / Map
+<!-- PIC / Map -->

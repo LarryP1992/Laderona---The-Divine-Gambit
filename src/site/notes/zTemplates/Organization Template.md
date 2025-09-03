@@ -21,4 +21,4 @@ Type can be:
 
 
 
-PIC / Map
+<!-- PIC / Map -->
