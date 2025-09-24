@@ -4,6 +4,7 @@
 
 | Session                                                                                                                      | Session Date       |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Session Recaps/Oaths of Stone, Secrets of Ice\|Oaths of Stone, Secrets of Ice]]                                         | September 10, 2025 |
 | [[Session Recaps/From Goblins to the Grave\|From Goblins to the Grave]]                                                   | September 03, 2025 |
 | [[Session Recaps/Entering the Spine\|Entering the Spine]]                                                                 | August 13, 2025    |
 | [[Session Recaps/Tea, Secrets, and the Shedding of Shackles\|Tea, Secrets, and the Shedding of Shackles]]                 | July 09, 2025      |
