@@ -8,7 +8,7 @@
 
 | File                                                                                 | Type                                 | Last Modified                |
 | ------------------------------------------------------------------------------------ | ------------------------------------ | ---------------------------- |
-| [[A5e Reference Material/A5e Strongholds Rules\|A5e Strongholds Rules]]           | <ul><li>Reference Material</li></ul> | 7:09 PM - September 26, 2025 |
+| [[A5e Reference Material/A5e Strongholds Mechanics\|A5e Strongholds Mechanics]]   | <ul><li>Reference Material</li></ul> | 7:12 PM - September 26, 2025 |
 | [[Session Recaps/Oaths of Stone, Secrets of Ice\|Oaths of Stone, Secrets of Ice]] | <ul><li>Session</li></ul>            | 5:25 PM - September 24, 2025 |
 | [[Session Recaps/From Goblins to the Grave\|From Goblins to the Grave]]           | <ul><li>Session</li></ul>            | 8:11 PM - September 09, 2025 |
 | [[Session Recaps/_Session Story Line\|_Session Story Line]]                       | \-                                   | 6:58 PM - September 09, 2025 |
