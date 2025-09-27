@@ -3,4 +3,4 @@
 ---
 
 # Stronghold Mechanics
-<iframe src="https://1drv.ms/b/c/0af935b105fdb025/IQRsL2rX1WI-TroUHgdCD6oVAR2lApC6HsudP8Vq2MgXI-Y" width="1000" height="1500" frameborder="0" scrolling="no"> </iframe>
+<iframe src="https://1drv.ms/b/c/0af935b105fdb025/IQQgwhs7N5JoS5fIndYQDxZpAcJlOuyODarYh33sPmLOwiY" width="1000" height="1500" frameborder="0" scrolling="no"> </iframe>
