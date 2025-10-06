@@ -15,10 +15,10 @@ Singing / Speaking the words, and committing them to memory, allows the creature
 
 The scrolls reads as follows with the translation to the right.
 
-### Verse I: <!-- The Kinship Veiled -->
+### Verse I: The Kinship Veiled
 
 >Il'she ven tharan, veth’kai dorin vae shuur. En'kai lumira'th silna ven’tal vorrin'kai tor elune. Shari'mor ven kaleth.
-<!--
+
 📜 Translation
 
 > “You are of my line, though the blood may be thin. In you stirs the spark that once sang across the stars. Let me show you who we were.”
@@ -27,17 +27,15 @@ The first passage of the scroll glows faintly as you decipher it. In the flicker
 
 #### Effects
 - **Legacy of the Veiled Flame:**  
-    When you cast a spell of 1st level or higher, roll a **d6**. On a **5 or 6**, you gain **temporary hit points equal to your Charisma modifier × the spell's level**.  
-    These temporary hit points **do not stack** but may be refreshed on a new spellcast roll.
+    When you cast a spell of 1st level or higher, roll **1d6**. On a **6**, you gain **temporary hit points equal to your Charisma modifier × the spell's level**.  
+    These temporary hit points **do not stack** but may be refreshed when a new spell cast.
     
 - **Veil of Mist (Reaction):**  
     When you take damage, you may use your **reaction** to be momentarily wreathed in **shadowy mist**, gaining **resistance to that instance of the damage** you just took.  
     You may use this reaction a number of times per long rest equal to your **proficiency bonus**.
     
 - **Eyes of the Veil:**  
-    You gain **darkvision to 60 feet**. If you already have darkvision, its range increases by 30 feet.  
-    _(This feature may evolve into Truesight in a future Verse.)_
--->
+    You gain **darkvision to 60 feet**. If you already have darkvision, its range increases by 60 feet.      
 
 <!--
 ### Verse II – Ashes of the Forgotten Sun
