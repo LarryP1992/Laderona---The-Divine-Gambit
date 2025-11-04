@@ -8,7 +8,9 @@
 
 | File                                                                                         | Type                                 | Last Modified                |
 | -------------------------------------------------------------------------------------------- | ------------------------------------ | ---------------------------- |
-| [[World & Lore/Items/The Scroll of the Shattered Veil\|The Scroll of the Shattered Veil]] | <ul><li>Scroll</li></ul>             | 6:35 PM - October 06, 2025   |
+| [[Session Recaps/The Dragon's Scales\|The Dragon's Scales]]                               | <ul><li>Session</li></ul>            | 5:19 PM - November 04, 2025  |
+| [[World & Lore/Items/The Heart of the Blight\|The Heart of the Blight]]                   | <ul><li>Session</li></ul>            | 5:17 PM - November 04, 2025  |
+| [[World & Lore/Items/The Scroll of the Shattered Veil\|The Scroll of the Shattered Veil]] | <ul><li>Scroll</li></ul>             | 5:15 PM - November 04, 2025  |
 | [[A5e Reference Material/A5e Strongholds Mechanics\|A5e Strongholds Mechanics]]           | <ul><li>Reference Material</li></ul> | 8:17 PM - September 26, 2025 |
 | [[Session Recaps/Oaths of Stone, Secrets of Ice\|Oaths of Stone, Secrets of Ice]]         | <ul><li>Session</li></ul>            | 5:25 PM - September 24, 2025 |
 | [[Session Recaps/From Goblins to the Grave\|From Goblins to the Grave]]                   | <ul><li>Session</li></ul>            | 8:11 PM - September 09, 2025 |
@@ -16,8 +18,6 @@
 | [[Session Recaps/Entering the Spine\|Entering the Spine]]                                 | <ul><li>Session</li></ul>            | 4:45 PM - September 03, 2025 |
 | [[Organizations/The Forgemasters\|The Forgemasters]]                                      | <ul><li>Unknown</li></ul>            | 8:57 PM - August 17, 2025    |
 | [[Religions/Sophic Scholars\|Sophic Scholars]]                                            | <ul><li>Religion</li></ul>           | 8:51 PM - August 17, 2025    |
-| [[Religions/Landweavers\|Landweavers]]                                                    | <ul><li>Religion</li></ul>           | 8:51 PM - August 17, 2025    |
-| [[Religions/Guardians of the Night\|Guardians of the Night]]                              | <ul><li>Religion</li></ul>           | 8:51 PM - August 17, 2025    |
 
 { .block-language-dataview}
 

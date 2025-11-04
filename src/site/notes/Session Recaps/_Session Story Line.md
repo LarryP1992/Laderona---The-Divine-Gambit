@@ -4,6 +4,8 @@
 
 | Session                                                                                                                      | Session Date       |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[World & Lore/Items/The Heart of the Blight\|The Heart of the Blight]]                                                   | October 22, 2025   |
+| [[Session Recaps/The Dragon's Scales\|The Dragon's Scales]]                                                               | October 08, 2025   |
 | [[Session Recaps/Oaths of Stone, Secrets of Ice\|Oaths of Stone, Secrets of Ice]]                                         | September 10, 2025 |
 | [[Session Recaps/From Goblins to the Grave\|From Goblins to the Grave]]                                                   | September 03, 2025 |
 | [[Session Recaps/Entering the Spine\|Entering the Spine]]                                                                 | August 13, 2025    |
