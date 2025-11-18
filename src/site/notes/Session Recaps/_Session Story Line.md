@@ -4,6 +4,7 @@
 
 | Session                                                                                                                      | Session Date       |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Session Recaps/The Heart of the Forest\|The Heart of the Forest]]                                                       | November 05, 2025  |
 | [[World & Lore/Items/The Heart of the Blight\|The Heart of the Blight]]                                                   | October 22, 2025   |
 | [[Session Recaps/The Dragon's Scales\|The Dragon's Scales]]                                                               | October 08, 2025   |
 | [[Session Recaps/Oaths of Stone, Secrets of Ice\|Oaths of Stone, Secrets of Ice]]                                         | September 10, 2025 |
