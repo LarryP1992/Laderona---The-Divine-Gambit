@@ -40,7 +40,7 @@ Is there certain knowledge the Gods have forbidden Mortals to know? It seems the
 ---
 
 **Page 5**  
-We just sent messengers to supply the Witherking in the Shambled Forest with another pouch of Sunblaze Crystals. They seem to be going through them more quickly than before, demanding more frequent than they grow. Now another group has began harvesting the Crystals, as well. I believe them to be [[Organizations/The Forgemasters\|The Forgemasters]]. 
+We just sent messengers to supply [[The Witherking\|The Witherking]] in the [[Shambled Forest\|Shambled Forest]] with another pouch of [[World & Lore/Ore/Sunblaze Crystals\|Sunblaze Crystals]]. They seem to be going through them more quickly than before, demanding more frequent than they grow. Now another group has began harvesting the Crystals, as well. I believe them to be [[Organizations/The Forgemasters\|The Forgemasters]]. 
   
 
 > [!DANGER] Response
